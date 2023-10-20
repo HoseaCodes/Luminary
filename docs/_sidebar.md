@@ -12,5 +12,6 @@
 * [MVP](mvp.md)
 * [Security](security.md)
 * [Tech Team](tech_team.md)
+* [API](api.md)
 * [Timeline & Cost](timeline_cost.md)
   

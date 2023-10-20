@@ -88,3 +88,7 @@ For both payment processors and payment gateways, the main objectives are to sec
 - [Softermil](https://www.softermii.com/blog/how-to-create-an-online-payment-platform-like-stripe)
 
 - [Stripe Create Your Own](https://stripe.com/resources/more/how-to-create-your-own-payment-gateway)
+
+- [Stripe CC Payments](https://stripe.com/resources/more/how-to-accept-credit-card-payments)
+
+- [Stripe Ecommerce Payments](https://stripe.com/resources/more/ecommerce-payments-101)
