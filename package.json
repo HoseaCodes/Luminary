@@ -1,0 +1,15 @@
+{
+  "name": "luminary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs": "docsify serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominique Hosea",
+  "license": "ISC",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
