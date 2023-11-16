@@ -2,7 +2,7 @@
 
 * [Home](/)
 * [Cash App](cashapp.md)
-* [Tech Stack](techstack.md)
+* [Tech Stack](techStack.md)
 * [Venmo](venmo.md)
 * [Zelle](zelle.md)
 * [Terms](terms.md)
