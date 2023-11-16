@@ -1,6 +1,10 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
+* [Cash App](cashapp.md)
+* [Tech Stack](techstack.md)
+* [Venmo](venmo.md)
+* [Zelle](zelle.md)
 * [Terms](terms.md)
 * [Building POC](diy.md)
 * [Guide](guide.md)
