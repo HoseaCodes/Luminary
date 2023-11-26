@@ -76,11 +76,6 @@ Automating repetitive tasks such as writing skeletal code, utility libraries, un
 - https://www.thirdrocktechkno.com/blog/react-native-best-practices/
 - https://www.emizentech.com/blog/native-mobile-app-architecture.html
 - https://www.techaheadcorp.com/blog/enterprise-app-architecture-long-term-growth/
-- https://appinventiv.com/blog/cost-of-cash-app-development/
-- https://www.freshbooks.com/hub/accounting/how-cash-app-works
-- https://shakuro.com/blog/how-to-make-a-payment-service-like-cash-app
-- https://www.retrocube.com/blog/how-much-does-it-cost-to-create-an-app-like-cashapp/
-- https://www.pewresearch.org/short-reads/2022/09/08/payment-apps-like-venmo-and-cash-app-bring-convenience-and-security-concerns-to-some-users/
 - https://code-care.com/blog/technology-stack-for-app-development/
 - https://www.linkedin.com/pulse/whats-best-tech-stack-mobile-app-development-2023-strivemindz/
 - https://www.indiehackers.com/post/7-reasons-to-choose-react-native-for-enterprise-app-development-57fd1091ce
@@ -90,14 +85,7 @@ Automating repetitive tasks such as writing skeletal code, utility libraries, un
 - https://appinventiv.com/blog/cross-platform-app-frameworks/
 - https://www.spaceotechnologies.com/blog/cross-platform-app-frameworks/
 - https://www.techaheadcorp.com/blog/best-cross-platform-app-development-frameworks/
-- https://www.linkedin.com/pulse/how-develop-app-like-cash-step-by-step-guide-prachi-singh/
-- https://www.appypie.com/how-to-make-an-app-like-cash-app
 - https://topflightapps.com/ideas/how-to-build-p2p-payment-money-transfer-app/
 - https://chudovo.com/how-to-make-a-peer-to-peer-payment-app/
-- https://productmint.com/how-does-cash-app-make-money/
 - https://www.peerbits.com/blog/how-to-build-a-p2p-payment-app-like-venmo-and-square-cash.html
-- https://www.nichepursuits.com/how-to-make-money-on-the-cash-app/
-- https://www.stilt.com/blog/2022/09/how-to-make-money-on-cash-app/
-- https://www.techaheadcorp.com/blog/how-to-develop-a-p2p-payment-app-like-the-cash-app/
-- https://www.brainvire.com/blog/cash-app/
-- 
+  

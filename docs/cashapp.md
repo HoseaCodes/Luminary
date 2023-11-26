@@ -62,5 +62,8 @@ React Native, Elastic Cloud, Google Cloud Bigtable, Selenium WebDriver, Elastics
 - https://yalantis.com/blog/payment-p2p-app-development/
 - https://www.perfectiongeeks.com/cost-of-cash-app-development
 - https://vilmate.com/blog/how-to-build-an-awesome-payment-app-like-venmo/
+- https://www.retrocube.com/blog/how-much-does-it-cost-to-create-an-app-like-cashapp/
+- https://www.pewresearch.org/short-reads/2022/09/08/payment-apps-like-venmo-and-cash-app-bring-convenience-and-security-concerns-to-some-users/
+- https://www.techaheadcorp.com/blog/how-to-develop-a-p2p-payment-app-like-the-cash-app/
 
 ### Needs Review

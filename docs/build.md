@@ -82,3 +82,8 @@ Additional Features:
 - https://www.nimbleappgenie.com/blogs/build-an-app-like-cash/
 
 ### Needs Review
+
+- https://www.freshbooks.com/hub/accounting/how-cash-app-works
+- https://shakuro.com/blog/how-to-make-a-payment-service-like-cash-app
+- https://www.brainvire.com/blog/cash-app/
+- https://appinventiv.com/blog/cost-of-cash-app-development/

@@ -7,8 +7,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align="center">
-  <a href="https://github.com/your_username/repo_name">
-    <img src="https://i.imgur.com/RF2Zlgb.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/HoseaCodes/Luminary">
+    <img src="docs/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Luminary</h3>
@@ -17,14 +17,14 @@
   <p align="center">
     Welcome to the System Design Technical Guide for building a Money Transfer System. This guide provides comprehensive insights and strategies for creating a robust and competitive platform.
     <br />
-    <a href="https://github.com/your_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/HoseaCodes/Luminary"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/your_username/repo_name">View Demo</a>
+    <a href="https://github.com/HoseaCodes/Luminary">View Demo</a>
     ·
-    <a href="https://github.com/your_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/HoseaCodes/Luminary/issues">Report Bug</a>
     ·
-    <a href="https://github.com/your_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/HoseaCodes/Luminary/issues">Request Feature</a>
   </p>
 </div>
 
@@ -47,9 +47,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot](https://i.imgur.com/mB89whp.jpg)](https://example.com)
+[![Product Name Screen Shot](docs/p2p.avif)](https://hoseacodes.github.io/Luminary/)
 
-Provide a brief description of your project and its purpose. Explain why it's useful and how it can benefit users.
+ Technical Guide for building a Money Transfer System! In this comprehensive guide, we'll provide you with insights and steps to create a robust and competitive platform that can rival industry leaders like Stripe. What makes this venture even more remarkable is that it's developed by an all-black company, breaking barriers and promoting diversity in the fintech industry.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -57,10 +57,11 @@ Provide a brief description of your project and its purpose. Explain why it's us
 
 List the technologies, frameworks, and libraries that you used in your project.
 
-- [Technology 1](https://example.com)
-- [Technology 2](https://example.com)
-- [Technology 3](https://example.com)
-- [React](https://example.com)
+- [React Native](https://example.com)
+- [Nodejs](https://example.com)
+- [Tailwind CSS](https://example.com)
+- [Google Play](https://example.com)
+- [Apple App Store](https://example.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -83,7 +84,7 @@ npm install npm@latest -g
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your_username/repo_name.git
+git clone https://github.com/HoseaCodes/Luminary.git
 ```
 
 2. Navigate to the project directory:
@@ -130,7 +131,7 @@ Outline the future plans and enhancements you have for the project. You can list
   - [ ] Sub Feature 1
   - [ ] Sub Feature 2
 
-See the [open issues](https://github.com/your_username/repo_name/issues) for a full list of proposed features and known issues.
+See the [open issues](https://github.com/HoseaCodes/Luminary/issues) for a full list of proposed features and known issues.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -161,7 +162,7 @@ Distributed under the [MIT License](LICENSE). See `LICENSE` for more information
 
 - Your Name - [Your Twitter](https://twitter.com/your_username)
 - Email - your_email@example.com
-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+- Project Link: [https://github.com/HoseaCodes/Luminary](https://github.com/HoseaCodes/Luminary)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
