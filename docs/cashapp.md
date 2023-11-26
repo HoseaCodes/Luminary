@@ -56,4 +56,11 @@ React Native, Elastic Cloud, Google Cloud Bigtable, Selenium WebDriver, Elastics
 
 ## Resoures
 
+### Reviewed
+
 - https://6sense.com/company/cash-app/5c3b0252d55ae49f1b792ec3
+- https://yalantis.com/blog/payment-p2p-app-development/
+- https://www.perfectiongeeks.com/cost-of-cash-app-development
+- https://vilmate.com/blog/how-to-build-an-awesome-payment-app-like-venmo/
+
+### Needs Review
